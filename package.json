@@ -7,12 +7,21 @@
   },
   "name": "bankbackend",
   "version": "1.0.0",
-  "main": "bankserver.js",
+  "main": "prod.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bankserver.js"
+    "start": "node prod.js"
   },
   "author": "dhaval",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaval78/bankbackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhaval78/bankbackend/issues"
+  },
+  "homepage": "https://github.com/dhaval78/bankbackend#readme",
   "description": ""
 }
